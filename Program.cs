@@ -63,7 +63,7 @@ namespace nodups
             PrintResult(phrase0);
         }
         
-        static void Main()
+        public static void Main()
         {
             // This works in Visual Studio but not Kattis
             LoopSolution();
